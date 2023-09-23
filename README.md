@@ -10,8 +10,6 @@ Olá, me chamo Gabriel Froidevo, mas meus amigos me conhecem como Ded
 
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=GitHub)](https://github.com/byfroid)
 
-[![E-mail](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail)]("mailto:gfroidevo@gmail.com")
-
 ## Habilidades
 
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
