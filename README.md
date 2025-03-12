@@ -12,7 +12,7 @@ Olá, me chamo Gabriel Froidevo, mas meus amigos me conhecem como Ded
 
 ## Habilidades
 
-![Planilhas](https://img.shields.io/badge/Planilhas-000?style=for-the-badge&logo=google-sheets&logoColor=white)
+![Excel](https://img.shields.io/badge/Planilhas-000?style=for-the-badge&logo=google-sheets&logoColor=white)
 
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
 
