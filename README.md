@@ -12,6 +12,8 @@ Olá, me chamo Gabriel Froidevo, mas meus amigos me conhecem como Ded
 
 ## Habilidades
 
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
 
 ![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown)
